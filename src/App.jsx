@@ -88,6 +88,7 @@ function App() {
                 items={items}
                 setItems={setItems}
                 setSelectedItems={setSelectedItems}
+                selectedItems={selectedItems}
             />
             <ItemPicker
                 items={items}
